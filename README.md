@@ -9,5 +9,7 @@ This is a star field combined with a movement effect. Mostly inspired by this ve
 * [Coding Challenge #1: Starfield in Processing](https://www.youtube.com/watch?v=17WoOqgXsRM)
 
 ## 01_rain
-Rain scene. Again inspired in The Coding Train Youtube Channel:
+Rain scene. Inspired in this public pieces of code:
+* https://codepen.io/Sheepeuh/pen/cFazd
+* https://codepen.io/MillerTime/pen/oXmgJe
 * [Coding Challenge #4: Purple Rain in Processing](https://www.youtube.com/watch?v=KkyIDI6rQJI)
